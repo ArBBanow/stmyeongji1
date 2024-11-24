@@ -1,7 +1,7 @@
 import streamlit as st
 import dice
 import updown
-import df
+#import df
 
 st.sidebar.title("메뉴선택")
 page = st.sidebar.radio("", ["주사위던지기", "업다운게임", "데이터분석"])
